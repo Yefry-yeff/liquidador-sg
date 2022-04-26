@@ -1,0 +1,608 @@
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\comprobacion.exe.config
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\comprobacion.exe
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\comprobacion.pdb
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.BonusSkins.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Data.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Tutorials.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DemoData.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraNavBar.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.CodeParser.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraRichEdit.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Images.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Data.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraNavBar.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraRichEdit.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.csproj.AssemblyReference.cache
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.frmMain.resources
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.Properties.Resources.resources
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.promDifConc.resources
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.promDifVaFact.resources
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.ucActualizarData.resources
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.ucAnalisisIncoherencias.resources
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.csproj.GenerateResource.cache
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.exe.licenses
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.csproj.CoreCompileInputs.cache
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.csproj.CopyComplete
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.exe
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\obj\x64\Debug\comprobacion.pdb
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Charts.v21.1.Core.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataAccess.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataAccess.v21.1.UI.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Diagram.v21.1.Core.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.RichEdit.v21.1.Export.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Utils.v21.1.UI.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Xpo.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraDiagram.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.CodeCompletion.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.Extensions.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataAccess.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataAccess.v21.1.UI.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Diagram.v21.1.Core.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Utils.v21.1.UI.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Xpo.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraDiagram.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.CodeCompletion.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Maria Ramirez\Documents\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\comprobacion.exe.config
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\comprobacion.exe
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\comprobacion.pdb
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.BonusSkins.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Charts.v21.1.Core.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.CodeParser.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Data.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataAccess.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataAccess.v21.1.UI.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Diagram.v21.1.Core.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Images.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.RichEdit.v21.1.Export.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Tutorials.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Utils.v21.1.UI.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Xpo.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraDiagram.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraNavBar.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.CodeCompletion.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.Extensions.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraRichEdit.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DemoData.v21.1.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Data.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataAccess.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataAccess.v21.1.UI.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Diagram.v21.1.Core.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Utils.v21.1.UI.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Xpo.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraDiagram.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraNavBar.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.CodeCompletion.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraRichEdit.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.csproj.AssemblyReference.cache
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.frmMain.resources
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.Properties.Resources.resources
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.promDifConc.resources
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.promDifVaFact.resources
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.ucActualizarData.resources
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.ucAnalisisIncoherencias.resources
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.csproj.GenerateResource.cache
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.exe.licenses
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.csproj.CoreCompileInputs.cache
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.csproj.CopyComplete
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.exe
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.pdb
+C:\Users\Maria Ramirez\Desktop\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.ucReLiquidar.resources
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\comprobacion.exe.config
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\comprobacion.exe
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\comprobacion.pdb
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.BonusSkins.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Charts.v21.1.Core.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.CodeParser.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Data.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataAccess.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataAccess.v21.1.UI.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Diagram.v21.1.Core.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Images.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.RichEdit.v21.1.Export.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Tutorials.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Utils.v21.1.UI.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Xpo.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.Extensions.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraDiagram.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraNavBar.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.CodeCompletion.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.Extensions.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraRichEdit.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DemoData.v21.1.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Data.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataAccess.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.DataAccess.v21.1.UI.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Diagram.v21.1.Core.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Utils.v21.1.UI.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Xpo.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraDiagram.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraNavBar.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.CodeCompletion.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraReports.v21.1.Extensions.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraRichEdit.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraReports.v21.1.Extensions.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\bin\x64\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.frmMain.resources
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.Properties.Resources.resources
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.promDifConc.resources
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.promDifVaFact.resources
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.ucActualizarData.resources
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.ucReLiquidar.resources
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.UI.Modules.ucAnalisisIncoherencias.resources
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.csproj.GenerateResource.cache
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.exe.licenses
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.csproj.CoreCompileInputs.cache
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.csproj.CopyComplete
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.exe
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.pdb
+C:\Users\Yefry\source\repos\comprobacion\comprobacion\obj\x64\Debug\comprobacion.csproj.AssemblyReference.cache
